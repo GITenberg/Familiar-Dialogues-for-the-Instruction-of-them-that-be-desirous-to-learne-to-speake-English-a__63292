@@ -1,0 +1,26 @@
+_repo: Familiar-Dialogues-for-the-Instruction-of-them-that-be-desirous-to-learne-to-speake-English-a__63292
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bellot, Jacques
+    alias: Bellot, James
+    gutenberg_agent_id: '52363'
+    url: http://www.gutenberg.org/2009/agents/52363
+description: ''
+gutenberg_issued: '2020-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Conversation and phrase books -- French -- Early works
+  to 1800'
+- !lcsh 'English language -- Pronunciation by foreign speakers -- Early works to 1800'
+- GITenberg
+title: "Familiar Dialogues\r\nfor the Instruction of them, that be desirous to learne\
+  \ to speake English, and perfectlye to pronounce the same"
+url: http://www.gutenberg.org/ebooks/63292
